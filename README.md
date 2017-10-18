@@ -17,7 +17,7 @@ Open directory:
 
 ## Usage
 
-Add sounds in format mp3 in folder ./files.
+Clear and add sounds mp3 in folder `./files/`.
 
 And execute command on console with name output file:
 ```javascript
