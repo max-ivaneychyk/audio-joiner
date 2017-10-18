@@ -28,7 +28,7 @@ npm run join <name>
 npm run join 
 ```  
   
-Output file you can see in folder ./result and data json for Howler in your console
+Output file you can see in folder `./result/` and data json for Howler in your console
 
 
 
