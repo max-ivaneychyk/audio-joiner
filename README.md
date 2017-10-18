@@ -2,7 +2,15 @@
 Generation audio sprite for lib Howler
 
 ## Instalation
-
+  Clone git repository:
+```javascript
+  git clone https://github.com/max-ivaneychyk/mp3-audio-joiner.git
+```
+Open directory:
+```javascript
+  cd mp3-audio-joiner
+```
+  Install dependencies:
 ```javascript
   npm install
 ```
@@ -10,18 +18,18 @@ Generation audio sprite for lib Howler
 ## Usage
 
 Add sounds in format mp3 in folder ./files.
-Execute command on console:
 
+And execute command on console with name output file:
 ```javascript
 npm run join <name> 
 ```  
-  or
+  or without - default name 'output.mp3'
 ```javascript
 npm run join 
 ```  
-  <name> - name output file / without parameter file created with default name 'output.mp3'
   
-  Output file you can see in folder ./result
+Output file you can see in folder ./result and data json for Howler in your console
+
 
 
 
