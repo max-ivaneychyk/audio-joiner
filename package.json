@@ -1,0 +1,14 @@
+{
+  "name": "mp3-audio-joiner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "join": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mp3-duration": "^1.1.0"
+  }
+}
