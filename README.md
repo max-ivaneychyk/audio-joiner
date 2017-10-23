@@ -1,4 +1,4 @@
-# mp3-audio-joiner
+# audio-joiner
 Generation audio sprite for lib Howler
 
 ## Instalation
@@ -7,11 +7,11 @@ Generation audio sprite for lib Howler
    
   Clone git repository:
 ```javascript
-  git clone https://github.com/max-ivaneychyk/mp3-audio-joiner.git
+  git clone https://github.com/max-ivaneychyk/audio-joiner.git
 ```
 Open directory:
 ```javascript
-  cd mp3-audio-joiner
+  cd audio-joiner
 ```
   Install dependencies:
 ```javascript
