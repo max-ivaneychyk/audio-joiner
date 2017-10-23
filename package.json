@@ -1,5 +1,5 @@
 {
-  "name": "mp3-audio-joiner",
+  "name": "audio-joiner",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mp3-duration": "^1.1.0"
+    "audiosprite": "^0.7.0"
   }
 }
