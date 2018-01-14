@@ -1,7 +1,7 @@
 # audio-joiner
 Generation audio sprite for lib Howler
 
-## Instalation
+## Installation
   First you need `FFMpeg` from https://www.ffmpeg.org/download.html and add binary file from directory `./bin` in system PATH
   Only after thet you need continue:
    
