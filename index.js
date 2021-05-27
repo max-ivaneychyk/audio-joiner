@@ -11,7 +11,7 @@ let opts = {
     format: 'howler',
     output: `result/${outputFileName}`
 };
-
+// test 
 audiosprite(files, opts, function(err, obj) {
     if (err) return console.error(err);
     // time in sec
